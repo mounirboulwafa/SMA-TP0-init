@@ -1,5 +1,5 @@
 # SMA-TP0-init
-Multi-Agents Systems TP0
+Multi-Agents Systems with middleware JADE - TP0
 
 ## Questions :
 
